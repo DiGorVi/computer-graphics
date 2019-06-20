@@ -17,3 +17,8 @@
 ***lab_09*** - OK✅
 
 ***lab_10*** - OK✅
+
+
+lab_01, lab_02 - tkinter
+
+lab_03 - lab_10 - PyQt
