@@ -22,3 +22,5 @@
 lab_01, lab_02 - tkinter
 
 lab_03 - lab_10 - PyQt
+
+On MacOS
